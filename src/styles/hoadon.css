@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan&display=swap');
+.divDauhoadon{
+     width: 100%;
+     background-color: black;
+     color: white;
+     padding-left: 50px;
+}
+.divTongket{
+     margin: 50px 0 0 0;
+     width: 500px;
+     float: right;
+     /* font-family: 'Courier New', Courier, monospace; */
+     font-family: 'Kodchasan', sans-serif;
+     font-weight: bold;
+}
+.ContainerHoadon{
+     width: 100%;
+     margin-bottom: 100px;
+}
+.ContainerTable{
+     width: 98%;
+     
+}
+.tabledon{
+     width: 100%;
+     font-size: 14px;
+     white-space: pre-wrap;
+     font-family: 'Kodchasan', sans-serif;
+}
+

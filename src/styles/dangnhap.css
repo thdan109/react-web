@@ -1,0 +1,86 @@
+.Dangnhap{
+     width: 100%;
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.formDangnhap{
+     margin: 0 auto;
+     margin-top: 100px;
+     margin-top: 100px;
+     padding-top: 30px;
+     width: 600px;
+     height: 600px;
+     text-align: center;
+     background-color:aliceblue;
+     border-radius: 20px;
+}
+h3{
+     margin-top: 70px;
+     margin-bottom: 50px;
+    
+
+}
+.btnDN{
+          margin-bottom: 10px;
+          width: 215px;
+          height: 40px;
+          font-size: 18px;
+          border-radius: 3px;
+          border: none;
+          border-bottom: 0.5px solid;
+          font-family: 'Kodchasan', sans-serif;
+          /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+          /* font-family: 'Courier New', Courier, monospace; */
+     }
+
+.btnDN:hover{
+          /* margin-bottom: 10px;
+          width: 215px;
+          height: 40px;
+          font-size: 18px;
+          border-radius: 3px;
+          border: none;
+          border-bottom: 0.5px solid;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+     background-color: burlywood;
+     font-size: 20px;
+
+}
+.btnFB{
+     margin-top: 20px;
+     margin-bottom: 10px;
+     width: 215px;
+     height: 40px;
+     font-size: 18px;
+     border-radius: 3px;
+     border: none;
+     border-bottom: 0.5px solid;
+     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.btnFB:hover{
+     background-color: rgb(0, 0, 168);
+     font-size: 20px;
+     color: white;
+}
+.btnDK{
+     font-size: 20px;
+     text-decoration: none;
+}
+.btnDK:hover{
+     text-decoration: none;
+     color: blue;
+     font-size: 22px;
+}
+.txtUser{
+     margin-bottom: 30px!important;
+     width: 500px;
+     
+}
+.txtPass{
+     margin-bottom: 50px!important;
+     width: 500px;
+}

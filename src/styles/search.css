@@ -1,0 +1,61 @@
+.searchbar{
+     width: 100%;
+     margin: 40px;
+     margin-bottom: 40px;
+}
+.formSearch{
+     margin: 0 auto;
+     width: 840px;
+     position: relative;
+
+}
+.IconSearch{
+     width: 32px;
+     height: 25px;
+     position: absolute;
+     top: 20%;
+     margin-left: 10px;
+     /* background-color: rgb(104, 183, 248); */
+}
+/* .MuiInputBase-root{
+      height: 40px; 
+      width: 800px; 
+} */
+.textf{
+     border-radius: 20px;
+}
+.txtSearch{
+     height: 50px;
+     width: 740px;
+     border: 1px solid black;
+     padding-left: 60px ;
+     padding-right: 20px ;
+     /* border-radius: 20px; */
+}
+.txtSearch:hover{
+     /* border-radius: 20px; */
+
+}
+
+input#outlined-basic.txtSearch {
+     border-radius: 20px;
+}
+
+input#outlined-basic.txtSearch:focus {
+     outline: none;
+}
+/* .MuiFormLabel-root{
+     font-size: 0.9rem;
+     line-height: 0.3!important;
+} */
+@media only screen and (max-width: 300px) {
+     .formSearch{
+          margin: 0 auto;
+          width: 280px;
+     
+     }
+     .MuiInputBase-root{
+          height: 40px;
+          width: 150px;
+     }
+   }

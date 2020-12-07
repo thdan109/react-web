@@ -1,0 +1,20 @@
+
+
+.footer-app{
+     position: sticky;
+     top: 100%;
+     width: 100%;
+     margin-top: 50px;
+    
+     
+}
+.hrFooter{
+     width: 60%;
+}
+.underContainer{
+    /* background-color: rgb(55, 55, 116); */
+    background-color: rgb(59, 59, 59);
+}
+.h6{
+     font-weight: 200!important;
+}

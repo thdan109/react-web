@@ -1,0 +1,77 @@
+.Card-product{
+     margin-bottom: 60px;
+     display: block;
+     border-bottom: 1px solid rgb(128, 128, 128);
+     /* border-right: 1px solid rgb(128, 128, 128);
+     border-left: 1px solid rgb(128, 128, 128); */
+}
+.Card-product{
+     height: 450px;
+     /* border: 1px solid rgb(26, 26, 26); */
+     /* background-color:thistle; */
+     /* border: 1px inset thistle; */
+     border-radius: 15px;
+}
+.Card-product:hover{
+     transform: scale(1.1);
+     transition: 0.7s;
+     box-shadow: 1px 1px 5px 1px;
+}
+.Card-product img{
+     margin-top: 10px;
+     border-top-left-radius: 15px;
+     border-top-right-radius: 15px;
+     width:100%;
+     height: 270px;
+     /* width: 220px; */
+     /* border-bottom: 1px inset thistle; */
+    
+}
+.Card-Infor{
+     margin: 55px 10px 0px 10px;    
+     /* margin: 20px 10px 10px 30px; */
+     height: 150px;
+     
+}
+.Name-Product{
+     /* display: inline; */
+     font-weight: bold;
+     margin-bottom: 0px;
+     height: 50px;
+     width: 100%;
+}
+.Price-Product{
+     font-weight: bold;
+}
+.bt-product{
+     display: block;
+}
+.Bticon img{
+     margin-right: 5px;
+     width: 18px;
+     height: 18px;
+}
+.Bticon:hover{
+     background-color: white;
+     border: none;
+}
+.BtAddCart{
+     background-color: white;
+     margin-left: 10px;
+     width: 120px;
+     color: blue;
+     border: none; 
+}
+
+.BtAddCart:hover{
+       background-color: white;
+       color: blue;
+}
+/* .linkbt{
+     text-decoration: none;
+     color: black;
+}
+.linkbt:hover{
+     text-decoration: none;
+     color: black;
+} */

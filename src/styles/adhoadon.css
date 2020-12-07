@@ -1,0 +1,44 @@
+.divAdhoadon{
+     width: 100%;
+     margin: 0;
+}
+.Adhoadon{
+     width: 98%;
+     margin: auto;
+}
+.divTableAdhoadon{
+     white-space: pre-wrap;
+}
+h4{
+     margin-top: 50px;
+     margin-bottom: 50px;
+     text-align: center;
+     font-weight: 700;
+}
+.tdselect{
+     text-align: center;
+}
+td{
+     border-top: none;
+     border-left: none;
+     border-right: none ;
+}
+
+.inputstatus{
+     width: 164px;
+     text-align: center;
+}
+.tdGiamgia{
+     text-align: center;
+}
+.inputKM{
+     text-align: center;
+     width: 50px;
+     border-radius: 5px; 
+     border: 1px solid black;
+}
+.inputSM{
+     width: 70px;
+     border-radius: 5px; 
+     border: 1px solid black;
+}

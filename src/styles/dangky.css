@@ -1,0 +1,37 @@
+.Dangky{
+     width: 100%;
+     margin-top: 70px;
+}
+.fomDangky{
+     text-align: center;
+     margin: 0 auto;
+     height: 700px;
+     padding-top: 20px;  
+     padding-bottom: 20px;
+     width: 600px;
+     border-radius: 10px;
+     background-color:aliceblue;
+     /* font-family: 'Courier New', Courier, monospace; */
+     font-family: 'Kodchasan', sans-serif;
+}
+.btnDK1{
+     /* margin-bottom: 10px; */
+     width: 215px;
+     height: 40px;
+     font-size: 18px;
+     border-radius: 3px;
+     border: none;
+     border-bottom: 0.5px solid;
+     font-family: 'Kodchasan', sans-serif;    
+     /* font-family: 'Courier New', Courier, monospace; */
+     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+.btnDK1:hover{
+     background-color: burlywood;
+     font-size: 20px;
+     color: black;
+}
+.txtUser, .txtPassword, .txtPhone, .txtNamecus, .txtSex{
+     width: 500px;
+     margin-bottom: 35px!important;
+}

@@ -1,0 +1,163 @@
+.divHeader{
+     margin-bottom: 80px;
+}
+.divfirst{
+     width: 100%;
+     height: 25px;
+     /* background-color: rgb(55, 55, 116); */
+     background-color: black;
+}
+.navbar{
+     /* background-color: rgb(54, 70, 161)!important; */
+     /* border-bottom: 1px solid rgb(55, 55, 116);; */
+}
+.logo{
+     margin: 10px 80px 0px 150px;
+     width: 100px;
+     height: 100px;
+     float: left;
+     /* border: 1px solid black; */
+}
+.logo img{
+     float: left;
+     width: 100%;
+}
+.headerbar{
+     font-size: bold;
+}
+.headerbr{
+     float: right;
+}
+.NavbarBrand{
+     display: flex-column;
+}
+
+.nav-link-class{
+     float: right;
+     margin-right: 20px;
+}
+.nav-link-class:hover{
+     /*  display: inline; */
+     transform: scale(1.05);
+     transition: 0.5s;
+}
+.linkToPage{
+     color: rgb(0, 0, 0);  
+     font-size: 23px;
+     font-weight: 600;
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+     /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  */
+}
+.linkToPage:focus{
+     border-bottom: 2px rgb(73, 52, 37) solid;
+     animation: mymove 3s infinite;
+}
+@keyframes mymove {
+     20% {border-bottom-left-radius: 10px;}
+   }
+.linkToPage1{
+     color: rgb(0, 0, 0);  
+     font-size: 18px;
+     font-weight: 400;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+     
+}
+.linkToPage:hover{
+     text-decoration: none;
+     transition: 0.5s;
+     color: black ;
+     transform: scale(1.05);
+     
+}
+.linkToPage1:hover{
+     text-decoration: none;
+     transition: 0.5s;
+     color: black ;
+     transform: scale(1.005);
+}
+.formSearch{
+     margin-right: 30px;
+}
+
+
+.Op{
+     color: black;
+}
+.dropdown {
+     position: relative;
+     display: inline-block;
+     color: black;
+   }
+.dropdown span{
+     color: rgb(0, 0, 0);  
+     font-size: 23px;
+     font-weight: 600;
+     /* font-family: 'Courier New', Courier, monospace; */
+     font-family: 'Kodchasan', sans-serif;
+}
+.dropdown p{
+     margin-top: 10px;
+}
+.linkTodx{
+     color: black;
+}
+.linkTodx:hover{
+     text-decoration: none;
+     color: black;
+
+}
+.IconCart{
+     float: right;
+     /* border: 1px solid black; */
+     width: 100px;
+     height: 30px;
+     margin-right: 100px;
+}
+.iconUser img{
+     /* float: right; */
+     width: 100%;
+}
+.IconCart img{
+     float: right;
+     width: 30px;
+}
+.sluonggio{
+     position: absolute;
+     right: 118px;
+     top: 42px;
+     float: right;
+     width: 24px;
+     height: 24px;
+     font-size: 13px;
+     padding: 2px;
+     padding-left: 7px;
+     padding-right: 7px;
+     color: wheat;
+     background-color: rgb(231, 61, 61);
+     border-radius: 15px;
+}
+.linkicon:hover{
+     text-decoration: none;
+     
+}
+
+
+
+   .dropdown-content {
+     display: none;
+     position: absolute;
+     color: black;
+     font-size: 15px;
+     background-color: #f9f9f9;
+     min-width: 140px;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     padding: 5px 16px;
+     z-index: 2;
+     border-radius: 5px;
+   }
+   
+   .dropdown:hover .dropdown-content {
+     display: block;
+     border-radius: 5px;
+   }    

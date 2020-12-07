@@ -1,0 +1,49 @@
+.divadsanpham{
+     width: 100%;
+     margin: 0;
+}
+h3{
+     text-align: center;
+     font-weight: 800;
+}
+
+.divTabl{
+     width: 80%;
+     margin: auto;
+}
+.divSearch{
+     width: 30%;
+     margin: auto;
+}
+.inputsead{
+     width: 600px;
+     height: 40px;
+     border: 1px solid rgb(10, 10, 10);
+     border-radius: 5px ;
+     padding-left: 10px;
+}
+.iconn{
+     width: 25px;
+     height: 25px;
+}
+.icona{
+     
+     width: 100%;
+     margin: auto;
+     margin-left: 10%;
+     font-weight: 600;
+    
+}
+.iconadd{
+     width: 30px;
+     height: 30px;
+}
+
+.btnaddProductAd{
+     border: none;
+     background-color: white;
+}
+.btnaddProductAd:focus{
+     border:  1px solid black;
+     background-color: white;
+}

@@ -1,0 +1,146 @@
+.ContainerGiohang{
+     width: 100%;
+     margin-top: 100px;
+     margin-bottom: 150px;
+     
+}
+.divDaugiohang1{
+     padding-left: 50px;
+     padding-right: 50px;
+     width: 100%;
+     background-color: black;
+     color: white;
+}
+.divDaugiohang2{
+     /* text-align: center; */
+     width: 100%;
+     background-color: black;
+     color: white;
+}
+.ContainerTable{
+     width: 70%;
+     margin: 0 auto;
+     margin-top: 40px;
+    
+}
+.tablegio{
+     width: 100%;
+     margin: 0;
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+}
+
+.spanTieude{
+     font-weight: bold;
+     margin-bottom: 30px;
+     font-size: 25px;
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+}
+.spanTieude1{
+     /* display: block; */
+     font-weight: bold;
+     /* margin-bottom: 30px; */
+     font-size: 25px;
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+}
+.spanDonhang{
+     color: white;
+     font-weight: bold;
+     float: right;
+     font-size: 25px;
+     font-family: 'Kodchasan', sans-serif;
+     /* font-family: 'Courier New', Courier, monospace; */
+}
+.link{
+     /* color: black; */
+     color: white;
+}
+.link:hover{
+     /* color: black; */
+     color: white;
+     text-decoration: none;
+}
+
+.divDaugiohang{
+     display: inline;
+     
+}
+.spanVND{
+     float: right;
+     margin-right: 30px;
+}
+.inputSoluongtang{
+     height: 30px;
+     margin-left: 10px;
+}
+.inputSoluonggiam{
+     height: 30px;
+     margin-right: 10px;
+}
+.inputSoluong{
+     height: 30px;
+     width: 40px;
+     text-align: center;
+}
+.btnThanhtoan{
+     margin-top: 30px;
+     font-size: 20px;
+     width: 220px;
+     height: 50px;
+     float: right;
+}
+.btnThanhtoan:hover{
+     border: 2px solid black;
+}
+.childThanhToan{
+
+}
+.btnXoa{
+     background-color: white;
+     border: none;
+     width: 84px;
+     height: 84px;
+}
+h5{
+     margin-top: 20px;
+     width: 100%;
+     text-align: center;
+}
+th, td{
+     height: 90px;
+     /* border-left: rgb(216, 205, 216) 1px solid; */
+     border-bottom: rgb(216, 205, 216) 1px solid;
+    
+    
+}
+th{
+     /* text-align: center; */
+     /* border-left: 1px solid red; */
+     /* background-color: rgb(211, 229, 236); */
+}
+td{
+     /* padding-left: 20px; */
+   
+}
+.imgProductcart{
+     width: 84px;
+     height: 84px;
+}
+/* .imgAddIcon{
+     width: 24px;
+     height: 24px;
+     margin-left: 20px;
+} */
+.icon{
+     width: 24px;
+     height: 24px;
+     margin-left: 40px;
+     margin-right: 30px;
+}
+.iconDonhang{
+     margin-right: 20px;
+     width: 44px;
+     height: 44px;
+}

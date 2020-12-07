@@ -1,0 +1,21 @@
+a {
+     font-weight: 900!important;
+     color: #007bff;
+     text-decoration: none;
+     background-color: transparent;
+ }
+ .navbar-brandd {
+     color: black;
+     
+     display: inline-block;
+     padding-top: .3125rem;
+     padding-bottom: .3125rem;
+     margin-right: 1.75rem;
+     font-size: 1.75rem;
+     line-height: inherit;
+     white-space: nowrap;
+ }
+ .navbar-brandd:hover{
+      color: black;
+      text-decoration: none;
+ }
